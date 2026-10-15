@@ -270,7 +270,7 @@ npm run lint
 
 **Qaisar Abbas**
 * **GitHub:** [@Kaiserabbas](https://github.com/Kaiserabbas)
-* **Website:** [Microverse Profile](https://www.microverse.org/)
+* **Website:** [Portfolio](https://www.qaisar-resume.netlify.app/)
 * **Specialization:** Full Stack Web Applications, Horticultural & Irrigation Tech Architecture
 
 ---
