@@ -1,0 +1,6 @@
+{
+  "name": "TerraFlora - Landscape Site Survey & BOQ Excel Architect",
+  "description": "Professional landscaping & garden site survey tool and automated Bill of Quantities (BOQ) generator with Rain Bird irrigation hydraulic calculations and multi-tab Excel export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
